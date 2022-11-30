@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="posts">Posts</string>
+    <string name="posts1">Posts</string>
+    <string name="postss">Posts</string>
+    <string name="ic_logo">logo</string>
+    <string name="islingtoncollege">islingtoncollege</string>
+    <string name="photoOne">photoOne</string>
+    <string name="love">love_buttonm</string>
+    <string name="freespace">...</string>
+    <string name="todo">TODO</string>
+    <string name="comm">TODO</string>
+    <string name="save">save</string>
+    <string name="like_by">Like by</string>
+    <string name="user_name">_coolboy223</string>
+    <string name="and">and</string>
+    <string name="other">54 others</string>
+    <string name="quote">Today we celebrate the 3rd Year of Chyiya Chautari...</string>
+    <string name="profieimage">profileimage</string>
+
+</resources>
